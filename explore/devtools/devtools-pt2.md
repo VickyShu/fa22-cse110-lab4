@@ -1,0 +1,2 @@
+1. Since num1 and num2 return as strings, calculateSum will concatenate two strings instead of adding two numbers.
+2. Convert num1 and num2 from string to integer: change line 11 to let result = parseInt(num1) + parseInt(num2).
